@@ -4,4 +4,3 @@
 - Use the <git commit –m "commit a.txt"> command to commit
 one of the files to the git repository
 New Feature 1
-Wrong Feature
