@@ -1,5 +1,6 @@
 - Add a sentence or two of simple text content to the files
 - Use the <git add a.txt> command to stage one of the files for
-use in the git repository
+
 - Use the <git commit –m "commit a.txt"> command to commit
 one of the files to the git repository
+Thats it
